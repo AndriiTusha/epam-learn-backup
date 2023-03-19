@@ -5,3 +5,7 @@ This line is from original file.
 This line is from original file too.
 
 +++++ plus line ++++
+
+----------------------------------------
+
+new FEATURE branch created and content added
