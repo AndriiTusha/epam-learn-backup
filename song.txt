@@ -11,5 +11,3 @@ This line is from original file too.
 new FEATURE branch created and content added
 
 ----------------------------------------
-
-add third part of content on brach FEATURE
