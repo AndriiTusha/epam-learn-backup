@@ -16,3 +16,7 @@ tagged commit added feature1
 --------------
 
 for tag only 
+
+-------------
+
+created stash_me.txt and added some content there 
